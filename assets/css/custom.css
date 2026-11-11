@@ -1,0 +1,6 @@
+.author__urls li,
+.author__urls a {
+    white-space: normal;
+    overflow-wrap: anywhere;
+    word-break: normal;
+}
