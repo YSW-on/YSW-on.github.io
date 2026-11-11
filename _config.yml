@@ -61,7 +61,10 @@ author:
   name   : "Seung Won Yu"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Test webpage"
+  location: "Busan, South Korea"
   links:
+    - label: "Department of Computer and Artificial Intelligence Engineering, Pukyong National University"
+      icon: "fas fa-fw fa-building-columns"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/YSW-on"
